@@ -47,6 +47,7 @@
 .room_name a{
   color: #FFFFFF;
   text-decoration: none;
+  font-size: 20px;
 }
 
 .chat {
